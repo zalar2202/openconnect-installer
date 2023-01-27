@@ -1,2 +1,3 @@
 testuser testpasswd
-tstusr tstpwd
+salar salar
+mansour mansour
